@@ -1,0 +1,10 @@
+{
+  "tasks": {},
+  "workspace": [
+    "./packages/*"
+  ],
+  "fmt": {
+    "singleQuote": true
+  },
+  "imports": {}
+}

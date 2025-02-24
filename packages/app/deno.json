@@ -1,0 +1,9 @@
+{
+  "name": "@octojs/app",
+  "version": "0.0.0-development",
+  "exports": "./mod.ts",
+  "license": "MIT",
+  "imports": {
+    "@octokit/webhooks-types": "npm:@octokit/webhooks-types@^7.6.1"
+  }
+}
